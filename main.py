@@ -2,7 +2,8 @@
 #b = monster lv
 #x = xyz monster
 #y = fusion monster = monster lv
-
+a = 0
+b = 0
 a = input()
 b = input()
 
