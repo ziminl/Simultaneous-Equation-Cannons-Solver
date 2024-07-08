@@ -1,4 +1,6 @@
 # Simultaneous-Equation-Cannons-Solver
-ez Simultaneous Equation Cannons usage - https://yugioh.fandom.com/wiki/Simultaneous_Equation_Cannons
+i use https://ygoprodeck.com/deck/labrynth-506202#/ so i made ez Simultaneous Equation Cannons - https://yugioh.fandom.com/wiki/Simultaneous_Equation_Cannons calculation
+
+
 
 > python main.py
