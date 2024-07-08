@@ -10,8 +10,13 @@ b = input()
 
 a + b = ab
 
-#(ab - 1) / 2 = 
+#(ab - 1) / 2 =
+
+# xyz to banish = x
+print("xyz monster level :"+
+     )
+ 
 
 
-# fusion to banish = b
+# fusion to banish = y = b
 print("fusion monster level :"+b)
