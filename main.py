@@ -10,7 +10,7 @@ b = input()
 #(a - b) /2 = x
 #b = y
 
-
+x = (a-b) / 2
 
 
 # xyz to banish = x
