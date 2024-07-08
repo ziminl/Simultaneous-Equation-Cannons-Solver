@@ -4,8 +4,8 @@
 #y = fusion monster = monster lv
 a = 0
 b = 0
-a = input()
-b = input()
+a = int(input())
+b = int(input())
 
 #a = 2*x + y(=b)
 #(a - b) /2 = x
@@ -15,10 +15,10 @@ x = (a - b) / 2
 
 
 # xyz to banish = x
-print("xyz monster level :"+x)
+print("xyz monster level :"+str(x))
  
 
 
 # fusion to banish = y = b
-print("fusion monster level :"+b)
-print("if level"+b+"futuon monster is banished by pot, can use cannon now.)
+print("fusion monster level :"+str(b))
+print("if level"+str(b)+"futuon monster is banished by pot, can use cannon now.)
