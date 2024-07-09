@@ -1,8 +1,4 @@
-To create an HTML page that captures the logic similar to your Python code, we'll create a basic form where users can input values for `a` (number of cards in hand and field) and `b` (monster level), and then display the results based on the calculations provided.
-
-Here's how you can structure the HTML page:
-
-```html
+html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -102,27 +98,3 @@ Here's how you can structure the HTML page:
     </script>
 </body>
 </html>
-```
-
-### Explanation:
-- **HTML Structure**: 
-  - The page contains a simple form (`monsterForm`) with two input fields (`cards` for `a` and `monsterLevel` for `b`).
-  - There's a button to submit the form and calculate the values.
-  - Results are displayed in a hidden `resultSection` initially.
-  
-- **CSS**: 
-  - Basic styling to make the form and results section visually appealing.
-
-- **JavaScript**:
-  - Listens for form submission (`addEventListener`).
-  - On submission, it retrieves values of `a` and `b`, calculates `x` (XYZ monster level).
-  - Checks if `x` is an integer. If true, displays calculated values (`xyzLevel` and `fusionLevel`).
-  - If `x` is not an integer, shows an alert and hides the result section.
-
-### Usage:
-1. Copy the entire HTML code into a file with a `.html` extension.
-2. Open the HTML file in a web browser.
-3. Enter values for `a` (number of cards in hand and field) and `b` (monster level) and click "Calculate".
-4. Results will be displayed below the form based on the calculations.
-
-This HTML page mirrors the logic of your Python script, providing an interactive way for users to input values and see the calculated results dynamically.
