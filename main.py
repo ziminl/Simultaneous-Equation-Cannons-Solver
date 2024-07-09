@@ -29,7 +29,7 @@ x = (a - b) / 2
 if x.is_integer():
     x = int(x)  # Convert x to an integer
     print("xyz monster level: ", x)
-    print("fusion monster level: ", b)
+    print("fusion monster level: ", b\n)
     print("if level {} fusion monster is banished by pot, you can use the cannon now.".format(b))
 else:
     #print("Cannot banish the monsters: The calculated XYZ monster level is not an integer.")
