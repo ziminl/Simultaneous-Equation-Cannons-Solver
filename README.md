@@ -5,4 +5,4 @@ i use https://ygoprodeck.com/deck/labrynth-506202#/ so i made ez Simultaneous Eq
 
 #todo
 
-will make webapp if i have time left. js? py? idk 
+change algo a little. if 15 cards and 4lv monster, cant banish 5.5(5.5+5.5+4==15) if its not int, should return cant. 
