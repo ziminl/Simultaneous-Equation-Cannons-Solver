@@ -4,3 +4,7 @@ i use https://ygoprodeck.com/deck/labrynth-506202#/ so i made ez Simultaneous Eq
 
 
 > python main.py
+
+#todo
+
+will make webapp if i have time left
